@@ -9,4 +9,5 @@ npx create-expo-app -e with-router
 ```
 
 ## 📝 Notes
-# react-native-components
+# react-native
+# using ios simulator
